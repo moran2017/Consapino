@@ -1,0 +1,10 @@
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\bin\Debug\Consapino.UI.exe.config
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\bin\Debug\Consapino.UI.exe
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\bin\Debug\Consapino.UI.pdb
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.Form1.resources
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.Properties.Resources.resources
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.csproj.GenerateResource.Cache
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.csproj.CoreCompileInputs.cache
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.exe
+C:\Users\Moran\source\repos\Consapino\Consapino.UI\obj\Debug\Consapino.UI.pdb
